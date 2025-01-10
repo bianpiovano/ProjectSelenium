@@ -1,2 +1,2 @@
-# Selenium
-Registrarse - Loguearse - Buscar un producto
+# ProjectSelenium
+Register - Login - Search for a product.
